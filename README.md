@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Demo of the site
-[https://chandanmovie.netlify.app/]https://chandanmovie.netlify.app/
+[https://chandanmovie.netlify.app/](https://chandanmovie.netlify.app/)
 
 
 ## Available Scripts
